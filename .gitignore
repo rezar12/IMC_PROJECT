@@ -1,0 +1,5 @@
+myenv
+imc_app/settings.py
+db.sqlite3
+.vscode
+__imc_app/__pycache__
